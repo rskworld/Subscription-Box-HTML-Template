@@ -1,0 +1,64 @@
+================================================================================
+SUBSCRIPTION BOX HTML TEMPLATE - OWNERSHIP INFORMATION
+================================================================================
+
+TEMPLATE OWNER: RSK World (rskworld.in)
+Website: https://rskworld.in
+Contact Page: https://rskworld.in/contact.php
+
+FOUNDER: Molla Samser
+DESIGNER & TESTER: Rima Khatun
+
+CONTACT INFORMATION:
+-------------------
+Email: help@rskworld.in
+Support Email: support@rskworld.in
+General Email: info@rskworld.com
+Phone: +91 93305 39277
+
+ADDRESS:
+--------
+Nutanhat, Mongolkote
+Purba Burdwan, West Bengal
+India, 713147
+
+ABOUT RSK WORLD:
+---------------
+RSK World is your one-stop destination for free programming resources, 
+source code, and development tools.
+
+TEMPLATE DETAILS:
+-----------------
+Template Name: Subscription Box HTML Template
+Template Type: E-commerce / Subscription Service Template
+Features: 
+  - Flexible Subscription Plans Table
+  - Box Customization Options Layout
+  - Recurring Payment Integration Design
+  - Surprise Element Showcase Section
+  - Gift Subscription Feature Structure
+  - Subscription Management Layout
+
+COPYRIGHT:
+---------
+© 2025 RSK World. All rights reserved.
+
+This template is owned by RSK World (rskworld.in).
+All files contain ownership comments and branding.
+
+FILES CONTAINING OWNERSHIP INFORMATION:
+---------------------------------------
+- index.html (HTML comments in header)
+- index.php (PHP comments in header)
+- assets/css/style.css (CSS comments at top)
+- assets/js/script.js (JavaScript comments at top)
+- README.md (Ownership section)
+- OWNERSHIP.txt (This file)
+
+All files have been updated with RSK World branding and contact information.
+
+================================================================================
+For any inquiries, please contact RSK World at help@rskworld.in
+or visit https://rskworld.in/contact.php
+================================================================================
+
